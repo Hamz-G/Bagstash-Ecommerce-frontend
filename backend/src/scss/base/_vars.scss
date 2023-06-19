@@ -1,0 +1,13 @@
+:root {
+    --dark-purple-color : #131c44;
+    --main-purple-color: #1d3897;
+    --light-purple-color : #e6e4f0;
+    --main-orange-color: #13101a;
+    --dark-orange-color: #8f2424;
+}
+
+$main_purple : var(--main-purple-color );
+$light_purple : var(--light-purple-color );
+$dark_purple: var(--dark-purple-color );
+$main_orange: var(--main-orange-color );
+$dark_orange: var(--dark-orange-color );

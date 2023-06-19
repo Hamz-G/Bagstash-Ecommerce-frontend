@@ -1,0 +1,17 @@
+/* Core variables */
+@import 'base/reset';   
+
+/* Core variables */
+@import 'base/vars';   
+
+/* Mixins, helpers and functions */
+@import 'base/mixins'; 
+
+/* Header */
+@import 'sections/header';
+
+/* Footer */
+@import 'sections/footer'; 
+
+/* Page Main */
+@import 'main';
